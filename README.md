@@ -19,6 +19,7 @@ I'm a 23-year-old coder who loves building things that make life easier and more
 - [PC Optimizer](https://github.com/DanielProCode/WindowsOptimizer/releases/tag/Optimizer) - Tools to make your PC run faster.
 - [Zen Script Maker (EZ EDITOR)](https://github.com/daniel/zen-scripts) - A collection of Zen Scripts and related tools.
 - Account Generator - almost done ;)
+- Vanguard Valorant bypasser COMPLETED
 
 ## 💬 Let's Connect
 
