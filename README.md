@@ -16,8 +16,8 @@ I'm a 23-year-old coder who loves building things that make life easier and more
   
 ## 📂 Check Out My Repos
 
-- [PC Optimizer](https://github.com/daniel/pc-optimizer) - Tools to make your PC run faster.
-- [Zen Script Repository](https://github.com/daniel/zen-scripts) - A collection of Zen Scripts and related tools.
+- [PC Optimizer](https://github.com/DanielProCode/WindowsOptimizer/releases/tag/Optimizer) - Tools to make your PC run faster.
+- [Zen Script Maker (EZ EDITOR)](https://github.com/daniel/zen-scripts) - A collection of Zen Scripts and related tools.
 - Account Generator - almost done ;)
 
 ## 💬 Let's Connect
